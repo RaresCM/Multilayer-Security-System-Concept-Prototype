@@ -3,7 +3,7 @@
 > **Implementation Note:** Drivers for RC552 RFID reader were sourced online in C code. The rest of the code is written by me using ATmega 2560 standard AVR libraries which are also available in my documentation. Direct register manipulation was performed using my own ATmega 2560 memory register map, [linked here](https://github.com/RaresCM/ATMega2560-Custom-Documentation).
 
 ## Overview
-My custom alarm system built on a ATmega 2560 development board platform in bare metal C. It uses a RC552 RFID reader, sound sensor, HC-SR501 PIR module, membrane keypad button matrix an active buzzer and a tilt sensor.
+My custom alarm system built on a ATmega 2560 development board platform in bare metal C. It uses a RC552 RFID reader, sound sensor, HC-SR501 PIR module, membrane keypad button matrix, an active buzzer and a tilt sensor.
 
 <img width="826" height="1415" alt="securitysystem" src="https://github.com/user-attachments/assets/6ff5ff27-29dd-47fa-a683-1c08eb4036da" />
 
